@@ -1,0 +1,1 @@
+**Welcome** to the MarketRaker Bull/Bear Indicator Integration example. 
